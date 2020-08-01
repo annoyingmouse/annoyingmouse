@@ -1,7 +1,9 @@
 <h3 style="display:flex;justify-content: space-between;">
   <span>Hi there, I'm annoyingmouse (Dominic Myers)</span> 
-  ![Visitor Count](https://profile-counter.glitch.me/annoyingmouse/count.svg)
+  
 </h3>
+
+![Visitor Count](https://profile-counter.glitch.me/annoyingmouse/count.svg)
 
 [![Dom's github stats](https://github-readme-stats.vercel.app/api?username=annoyingmouse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annoyingmouse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
