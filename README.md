@@ -1,7 +1,4 @@
-<h3 style="display:flex;justify-content: space-between;">
-  <span>Hi there, I'm annoyingmouse (Dominic Myers)</span> 
-  
-</h3>
+<h3 style="display:flex;justify-content: space-between;"><span>Hi there, I'm annoyingmouse (Dominic Myers)</span></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/annoyingmouse/count.svg)
 [![Contact me on Codementor](https://www.codementor.io/m-badges/annoyingmouse/im-a-cm-b.svg)](https://www.codementor.io/@annoyingmouse?refer=badge)
