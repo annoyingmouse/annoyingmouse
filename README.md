@@ -4,9 +4,9 @@
 
 
 
-[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=annoyingmouse&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=annoyingmouse&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annoyingmouse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annoyingmouse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![en-git stats](https://en-git.onrender.com/widget/annoyingmouse?type=card&theme=dark)](https://en-git.vercel.app/stats/annoyingmouse)
 
